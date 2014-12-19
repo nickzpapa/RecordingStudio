@@ -1,4 +1,4 @@
 RecordingStudio
 ===============
 
-JBDC Project
+JBDC School Project
